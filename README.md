@@ -1,3 +1,5 @@
+![mornrain-aurora-minimal](assets/preview.png)
+
 # Aurora Minimal
 
 极简工具 / 内容双模 WordPress 主题。留白大气、细线条、无阴影或极轻阴影，一套主题同时兼顾**工具落地页**与**内容站**两种场景。
